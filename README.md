@@ -1,6 +1,7 @@
 # coffee_bar
 A coffee bar official site to get lot of coffee products  through online
-![coffee](https://user-images.githubusercontent.com/98634205/169638914-f461b225-4aba-4de7-b5f7-f64244d07336.jpg)
-![home-img](https://user-images.githubusercontent.com/98634205/169638947-17ad0449-b7c1-48da-9a67-b9244e06daaa.jpeg)
-![logo](https://user-images.githubusercontent.com/98634205/169639003-ac4efb26-7c05-4f73-82a1-f4c782580f80.png)
-![menu1](https://user-images.githubusercontent.com/98634205/169639015-d6bbfe8e-a908-4da4-bd25-5994ee54ec3c.jpg)
+![product3](https://user-images.githubusercontent.com/98634205/169639633-3293ec32-77a6-421a-927d-6d176245a303.jpg)
+![product2](https://user-images.githubusercontent.com/98634205/169639649-71d547ec-0db8-4a31-b4cd-1d1ef5216152.jpg)
+![product1](https://user-images.githubusercontent.com/98634205/169639657-b05de7e7-225a-4578-a54a-23f704f877c2.jpg)
+![menu2](https://user-images.githubusercontent.com/98634205/169639662-1be70da1-4741-4101-b4f0-77bbf034651f.jpg)
+![menu3](https://user-images.githubusercontent.com/98634205/169639668-a4e8af86-e9c9-4f89-80bb-e51ba585b170.jpg)
