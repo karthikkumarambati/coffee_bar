@@ -367,7 +367,7 @@
     margin-top: 60px;
     margin-left: 20px;
 }
-@media screen and (max-width: 650px){
+@media screen and (max-width: 570px){
     .Home{
         background-color: black;
         width: 100%;
