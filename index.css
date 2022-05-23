@@ -10,7 +10,7 @@
 .Home{
     background-color: black;
     width: 100%;
-    height: 600vh;
+    height: 560vh;
 }
 .img2{
     margin-top: -70px;
@@ -20,24 +20,24 @@
     padding-top: 10px;
     padding-left: 10px;
 }
-nav{
+#droping{
     position: fixed;
     margin-left: 80vh;
     float: right;
     margin-top: -10vh;
     margin-right: 140px;
 }
-nav ul li{
+#droping ul li{
     display: inline;
     padding-right: 30px;
     
 }
-nav ul li a{
+#droping ul li a{
     font-size: 15px;
     color: aliceblue;
     transition: .5s linear;
 }
-nav ul li a:hover{
+#droping ul li a:hover{
     color: rgba(236, 177, 14, 0.801);
 }
  .btn1{
@@ -67,9 +67,9 @@ nav ul li a:hover{
     color: rgb(208, 236, 84) ;
 }
 .cart {
-    margin-top: -108vh;
+    margin-top: -240px;
     float: right;
-    margin-right: 30px;
+    margin-right: 60px;
     font-size: 35px;
     color: rgb(228, 164, 86);
     cursor: pointer;
@@ -78,13 +78,26 @@ nav ul li a:hover{
 .cart :hover{
     color: rgba(219, 186, 39, 0.767);
 }
+.care{
+    float: right;
+    font-size: 35px;
+    margin-right: 20px;
+    margin-top: -240px;
+    cursor: pointer;
+    color: bisque;
+    display: none;
+    mix-blend-mode: screen;
+}
+#check{
+    display: none;
+}
 .text h2{
     color: aliceblue;
     font-size: 50px;
     font-style: italic;
     font-weight: bold;
+    margin-top: -70vh;
     font-family: Arial, Helvetica, sans-serif;
-    margin-top: -80vh;
     margin-left: 50px;
 }
 #txt{
@@ -205,6 +218,36 @@ nav ul li a:hover{
     margin-top: -50vh;
     margin-left: 140vh;
 }
+.mn_1{
+    float: right;
+    color: antiquewhite;
+    font-size: 40px;
+    padding-right: 20px;
+    margin-top: -60px;
+}
+.mn_1:hover{
+  color: rgba(230, 198, 19, 0.884);
+}
+.mn_2{
+    float: right;
+    color: antiquewhite;
+    font-size: 40px;
+    padding-right: 20px;
+    margin-top: -60px;
+}
+.mn_2:hover{
+  color: rgba(230, 198, 19, 0.884);
+}
+.mn_3{
+    float: right;
+    color: antiquewhite;
+    font-size: 40px;
+    margin-top: -60px;
+    padding-right: 20px;
+}
+.mn_3:hover{
+  color: rgba(230, 198, 19, 0.884);
+}
 #products{
     margin-top: 20vh;
 }
@@ -255,6 +298,11 @@ nav ul li a:hover{
     margin-top: -60vh;
     margin-right: 60vh;
     mix-blend-mode: screen;
+}
+.slot{
+    padding-left: 15vh;
+    color: rgb(212, 183, 19, 0.918);
+    opacity: 0.3;
 }
 #in_1{
     width: 60vh;
@@ -311,41 +359,6 @@ nav ul li a:hover{
 }
 #nav ul li a:hover{
     color: rgba(212, 183, 19, 0.918);
-}
-.slot{
-    padding-left: 15vh;
-    color: rgb(212, 183, 19, 0.918);
-    opacity: 0.3;
-}
-.mn_1{
-    float: right;
-    color: antiquewhite;
-    font-size: 40px;
-    padding-right: 20px;
-    margin-top: -60px;
-}
-.mn_1:hover{
-  color: rgba(230, 198, 19, 0.884);
-}
-.mn_2{
-    float: right;
-    color: antiquewhite;
-    font-size: 40px;
-    padding-right: 20px;
-    margin-top: -60px;
-}
-.mn_2:hover{
-  color: rgba(230, 198, 19, 0.884);
-}
-.mn_3{
-    float: right;
-    color: antiquewhite;
-    font-size: 40px;
-    margin-top: -60px;
-    padding-right: 20px;
-}
-.mn_3:hover{
-  color: rgba(230, 198, 19, 0.884);
 }
 #rn_1{
     color: antiquewhite;
