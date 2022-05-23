@@ -19,7 +19,7 @@
             </div>
             <div class="nav">
               <img class="img2" src="https://user-images.githubusercontent.com/98634205/169638947-17ad0449-b7c1-48da-9a67-b9244e06daaa.jpeg" width="100%" height="40%">
-               <nav>
+               <div id="droping">
                    <ul>
                     <li><a href="#home">HOME</a></li>
                     <li><a href="#about">ABOUT</a></li>
@@ -27,10 +27,14 @@
                     <li><a href="#products">PRDUCTS</a></li>
                     <li><a href="#contact">CONTACT</a></li>
                 </ul>
-               </nav>  
+               </div>  
+                  <label class="btn1" for="btn2"><i class="fa-solid fa-magnifying-glass"></i></label>
                    <input id="btn2" type="text" placeholder="search" name="search">
-                   <button class="btn1"><i class="fa-solid fa-magnifying-glass"></i></button>
            </div>
+           <div class="Make">
+            <label  class="care" onclick="myFunction()">
+                <i class="fas fa-bars"></i>
+            </label> 
                <a  class="cart" href="#"><i class="fa-solid fa-cart-shopping"></i></a>
                <div class="text">
                    <h2>TODAY GOOD MOOD <br><span id="txt">IS</span><br>SPONSORED BY COFFEE</h2>
@@ -145,5 +149,15 @@
             </div>
         </div>
     </div>
+        <script>
+        function myFunction(){
+    if(document.getElementById("droping").style.display == "none"){
+        document.getElementById("droping").style.display = "block"
+    }
+    else{
+        document.getElementById("droping").style.display = "none"
+    }
+}
+    </script>
 </body>
 </html>
