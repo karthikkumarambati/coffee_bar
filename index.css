@@ -370,7 +370,7 @@
 @media screen and (max-width: 570px){
     .Home{
         background-color: black;
-        width: 100%;
+        width: fit-content;
         height: 460vh;
     }
     .img2{
