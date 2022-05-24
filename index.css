@@ -10,7 +10,7 @@
 .Home{
     background-color: black;
     width: 100%;
-    height: 580vh;
+    height: 560vh;
 }
 .img2{
     margin-top: -70px;
@@ -46,7 +46,7 @@
     background-color: bisque;
     opacity: 0.7;
     float: left;
-     margin-left: 100px;
+    margin-left: 100px;
     width: 40px;
     height: 30px;
     margin-top: -105vh;
@@ -150,12 +150,12 @@
     margin-top: 20px;
     border: 1px solid whitesmoke;
     width: 150vh;
-    height: 65vh;
+    height: 60vh;
     background-color: antiquewhite;
     margin-left: 30vh;
 }
 .about_us img{
-    margin-top: 10px;
+    margin-top: 15px;
     margin-left: 15px;
 }
  .txt1{
@@ -224,7 +224,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    margin-top: -40px;
+    margin-top: -60px;
 }
 .mn_1:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -234,7 +234,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    margin-top: -30px;
+    margin-top: -60px;
 }
 .mn_2:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -243,7 +243,7 @@
     float: right;
     color: antiquewhite;
     font-size: 40px;
-    margin-top: -20px;
+    margin-top: -60px;
     padding-right: 20px;
 }
 .mn_3:hover{
@@ -364,7 +364,7 @@
 #rn_1{
     color: antiquewhite;
     font-size: 40px;
-    margin-top: 50px;
+    margin-top: 60px;
     margin-left: 20px;
 }
 @media screen and (max-width: 570px){
