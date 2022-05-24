@@ -223,8 +223,8 @@
     float: right;
     color: antiquewhite;
     font-size: 30px;
-    margin-right: 20px;
-    margin-top: -80px;
+    padding-right: 20px;
+    margin-top: -60px;
 }
 .mn_1:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -233,8 +233,8 @@
     float: right;
     color: antiquewhite;
     font-size: 30px;
-    margin-right: 20px;
-    margin-top: -60px;
+    padding-right: 20px;
+    margin-top: -70px;
 }
 .mn_2:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -243,8 +243,8 @@
     float: right;
     color: antiquewhite;
     font-size: 30px;
-    margin-top: -70px;
-    margin-right: 20px;
+    margin-top: -80px;
+    padding-right: 20px;
 }
 .mn_3:hover{
   color: rgba(230, 198, 19, 0.884);
