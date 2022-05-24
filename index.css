@@ -10,7 +10,7 @@
 .Home{
     background-color: black;
     width: 100%;
-    height: 560vh;
+    height: 580vh;
 }
 .img2{
     margin-top: -70px;
@@ -224,7 +224,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    margin-top: -60px;
+    margin-top: -50px;
 }
 .mn_1:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -234,7 +234,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    margin-top: -60px;
+    margin-top: -50px;
 }
 .mn_2:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -243,7 +243,7 @@
     float: right;
     color: antiquewhite;
     font-size: 40px;
-    margin-top: -60px;
+    margin-top: -50px;
     padding-right: 20px;
 }
 .mn_3:hover{
@@ -364,7 +364,7 @@
 #rn_1{
     color: antiquewhite;
     font-size: 40px;
-    margin-top: 60px;
+    margin-top: 50px;
     margin-left: 20px;
 }
 @media screen and (max-width: 570px){
