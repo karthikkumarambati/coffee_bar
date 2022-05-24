@@ -222,7 +222,7 @@
 .mn_1{
     float: right;
     color: antiquewhite;
-    font-size: 40px;
+    font-size: 30px;
     padding-right: 20px;
     padding-top: -90px;
 }
@@ -232,7 +232,7 @@
 .mn_2{
     float: right;
     color: antiquewhite;
-    font-size: 40px;
+    font-size: 30px;
     padding-right: 20px;
     padding-top: -100px;
 }
@@ -242,7 +242,7 @@
 .mn_3{
     float: right;
     color: antiquewhite;
-    font-size: 40px;
+    font-size: 30px;
     padding-top: -110px;
     padding-right: 20px;
 }
@@ -363,7 +363,7 @@
 }
 #rn_1{
     color: antiquewhite;
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 50px;
     margin-left: 20px;
 }
