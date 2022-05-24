@@ -224,7 +224,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    margin-top: -70px;
+    padding-top: -80px;
 }
 .mn_1:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -234,7 +234,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    margin-top: -80px;
+    padding-top: -90px;
 }
 .mn_2:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -243,7 +243,7 @@
     float: right;
     color: antiquewhite;
     font-size: 40px;
-    margin-top: -90px;
+    padding-top: -100px;
     padding-right: 20px;
 }
 .mn_3:hover{
