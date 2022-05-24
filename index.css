@@ -224,7 +224,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    padding-top: -80px;
+    padding-top: -90px;
 }
 .mn_1:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -234,7 +234,7 @@
     color: antiquewhite;
     font-size: 40px;
     padding-right: 20px;
-    padding-top: -90px;
+    padding-top: -100px;
 }
 .mn_2:hover{
   color: rgba(230, 198, 19, 0.884);
@@ -243,7 +243,7 @@
     float: right;
     color: antiquewhite;
     font-size: 40px;
-    padding-top: -100px;
+    padding-top: -110px;
     padding-right: 20px;
 }
 .mn_3:hover{
@@ -364,7 +364,7 @@
 #rn_1{
     color: antiquewhite;
     font-size: 40px;
-    margin-top: 60px;
+    margin-top: 50px;
     margin-left: 20px;
 }
 @media screen and (max-width: 570px){
