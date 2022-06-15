@@ -10,10 +10,10 @@
 .Home{
     background-color: black;
     width: 100%;
-    height: 620vh;
+    height: 600vh;
 }
 .img2{
-    margin-top: -70px;
+    margin-top: -240px;
     mix-blend-mode: screen;
 }
 .img1{
@@ -49,26 +49,26 @@
     margin-left: 100px;
     width: 40px;
     height: 30px;
-    margin-top: -110vh;
+    margin-top: -120vh;
 }
 #btn2{
     float: left;
-    margin-top: -110vh;
+    margin-top: -120vh;
     margin-left: -10px;
     background-color: rgb(87, 84, 84);
     border: 1px solid rgb(160, 158, 156);
     height: 30px;
     font-size: 20px;
-    color: bisque;
+    color: rgba(204, 182, 155, 0.959);
     text-align: center;
     opacity: 0.6;
     mix-blend-mode: screen;
 }
 .btn1:hover{
-    color: rgb(208, 236, 84) ;
+    color: rgb(205, 236, 30) ;
 }
 .cart {
-    margin-top: -260px;
+    margin-top: -180px;
     float: right;
     margin-right: 60px;
     font-size: 35px;
@@ -77,13 +77,13 @@
     mix-blend-mode: screen;
 }
 .cart :hover{
-    color: rgba(219, 186, 39, 0.767);
+    color: rgb(238, 241, 9);
 }
 .care{
     float: right;
     font-size: 35px;
     margin-right: 20px;
-    margin-top: -240px;
+    margin-top: -270px;
     cursor: pointer;
     color: bisque;
     display: none;
@@ -91,15 +91,17 @@
 }
 #check{
     display: none;
+} 
+.text{
+    margin-top: -95vh;
+    margin-left: 50px;
 }
 .text h2{
     color: aliceblue;
     font-size: 50px;
     font-style: italic;
     font-weight: bold;
-    margin-top: -70vh;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 50px;
 }
 #txt{
     margin-left: 180px;
@@ -150,21 +152,20 @@
     margin-top: 20px;
     border: 1px solid whitesmoke;
     width: 150vh;
-    height: 60vh;
-    background-color: antiquewhite;
+    height: 63vh;
+    background-color: transparent;
     margin-left: 30vh;
 }
 .about_us img{
-    margin-top: 15px;
-    margin-left: 15px;
+    margin-top: 5px;
+    margin-left: 5px;
 }
  .txt1{
-     margin-left: 84vh;
-     margin-top: -350px;
+     margin-left: 82vh;
+     margin-top: -340px;
  }
  .txt1 h3{
      font-size: 35px;
-     padding-top: 20px;
      font-style: italic;
      font-family: 'Times New Roman', Times, serif;
      font-weight: bold;
@@ -180,14 +181,19 @@
      height: 40px;
      width: 120px;
      font-size: 15px;
-     margin-top: -5px;
+     margin-top: -11px;
+ }
+ .btn2:hover{
+     background-image: linear-gradient(to right,rgb(223, 236, 39),rgb(77, 210, 243),rgb(250, 48, 250));
+     width: 360px;
+     transition: 2s linear;
  }
  #Menu{
     margin-top: 10vh;
 }
  .menu_bars{
     padding-left: 90vh;
-    padding-top: 20vh;
+    padding-top: 10vh;
 }
 .menu_bars h2{
     color: antiquewhite;
@@ -200,58 +206,61 @@
     color: rgba(212, 183, 19, 0.918);
 }
 .Menu_Bars1{
-    border: 2px solid whitesmoke;
-    width: 50vh;
-    height: 50vh;
-    margin-top: 50px;
+    border: 4px solid whitesmoke;
+    width: 54vh;
+    height: 54vh;
+    margin-top: 20px;
     margin-left: 20vh;
 }
 .Menu_Bars2{
-    border: 2px solid whitesmoke;
-    width: 50vh;
-    height: 50vh;
-    margin-top: -50vh;
+    border: 4px solid whitesmoke;
+    width: 54vh;
+    height: 54vh;
+    margin-top: -30vh;
     margin-left: 80vh;
+    margin-bottom: 30px;
 }
 .Menu_Bars3{
-    border: 2px solid whitesmoke;
-    width: 50vh;
-    height: 50vh;
-    margin-top: -50vh;
+    border: 4px solid whitesmoke;
+    width: 54vh;
+    height: 54vh;
+    margin-top: -76vh;
     margin-left: 140vh;
 }
-.mn_1{
-    float: right;
-    color: antiquewhite;
-    font-size: 30px;
-    padding-right: 20px;
-    margin-top: -60px;
+.hover_menu1:hover{
+     width: 340px;
+     height: 460px;
+     margin-left: -100px;
+     justify-content: center;
+     cursor: pointer;
+     transition: 2s linear;
+     margin-top: -10vh;
+     box-shadow: 1px 1px 30px rgb(233, 227, 227), 0 0 35px rgb(172, 172, 238), 0 0 40px rgb(236, 193, 236);
 }
-.mn_1:hover{
-  color: rgba(230, 198, 19, 0.884);
+.hover_menu2:hover{
+    width: 340px;
+    height: 460px;
+    margin-left: -100px;
+    justify-content: center;
+    cursor: pointer;
+    transition: 2s linear;
+    margin-top: -30vh;
+    box-shadow: 1px 1px 30px rgb(233, 227, 227), 0 0 35px rgb(172, 172, 238), 0 0 40px rgb(236, 193, 236);
 }
-.mn_2{
-    float: right;
-    color: antiquewhite;
-    font-size: 30px;
-    padding-right: 20px;
-    margin-top: -60px;
+.hover_menu3:hover{
+    width: 340px;
+    height: 460px;
+    margin-left: -100px;
+    justify-content: center;
+    cursor: pointer;
+    transition: 2s linear;
+    margin-top: -12vh;
+    box-shadow: 1px 1px 30px rgb(233, 227, 227), 0 0 35px rgb(172, 172, 238), 0 0 40px rgb(236, 193, 236);
 }
-.mn_2:hover{
-  color: rgba(230, 198, 19, 0.884);
-}
-.mn_3{
-    float: right;
-    color: antiquewhite;
-    font-size: 30px;
-    margin-top: -60px;
-    padding-right: 20px;
-}
-.mn_3:hover{
-  color: rgba(230, 198, 19, 0.884);
-}
+
+
 #products{
-    margin-top: 20vh;
+    margin-top: 18vh;
 }
 .products_imgs{
     padding-left: 90vh;
@@ -293,12 +302,13 @@
     padding-right: 200px;
 }
 #bg1{
-    margin-top: -20vh;
+    margin-top: -30vh;
+    margin-left: 30px;
 }
 .form_slot{
     float: right;
-    margin-top: -67vh;
-    margin-right: 60vh;
+    margin-top: -75vh;
+    margin-right: 10vh;
     mix-blend-mode: screen;
 }
 .slot{
@@ -362,12 +372,12 @@
 #nav ul li a:hover{
     color: rgba(212, 183, 19, 0.918);
 }
-#rn_1{
+/*#rn_1{
     color: antiquewhite;
     font-size: 30px;
     margin-top: 60px;
     margin-left: 20px;
-}
+}*/
 @media screen and (max-width: 570px){
     .Home{
         background-color: black;
